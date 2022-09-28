@@ -1,8 +1,11 @@
 # I decided to make this readme file as a separate branch for clarity
 
 This project is a spring boot initialzr, preconfigured package with some slight modifications to enable connecting to an external, client-network apache derby DB
+
 A big chunk of logic was created following a spring boot tutorial, mostly this video:
+
 https://www.youtube.com/watch?v=vtPkZShrvXQ
+
 Personally i recommend it as it made the process of learning spring seem easy
 
 That being said the project had to be reconfigured to connect to a db which is not embedded so the configuration and parts of the logic were created by me with some help from spring documentation
