@@ -1,4 +1,4 @@
-# I decided to make this readme file as a separate branch for clarity
+# I decided to make this readme file for clarity
 
 This project is a spring boot initialzr, preconfigured package with some slight modifications to enable connecting to an external, client-network apache derby DB
 
